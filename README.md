@@ -15,3 +15,8 @@ The project demonstrates the use of:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yashbhavi52-prog/calculator-project.git
+   ## 📸 Screenshots
+
+### Example: Addition
+![Calculator Addition](calculator.png)
+
